@@ -100,4 +100,5 @@ theme: diaspora
 deploy:
   type: git
   repo: https://github.com/petrichor7777/petrichor7777.github.io.git
+  branch: hexo
  
